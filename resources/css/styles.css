@@ -1,0 +1,9 @@
+body {
+    background-color: lightyellow;
+}
+
+h1 {
+    font-size: 100px;
+    color: rgb(255, 153, 255);
+    font-weight: bold;
+}
