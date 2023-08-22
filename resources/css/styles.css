@@ -18,7 +18,23 @@ img {
     height: auto;
     width: 500px;
 }
+
 .link {
     font-size: 36px;
     color: rgb(102, 51, 0);
+    display: inline-block;
+}
+
+.title {
+    text-align: center;
+    margin-top: 2em;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: auto;
+    border-bottom: 1em dotted rgb(255, 153, 255);
+}
+
+.links {
+    text-align: center;
+    background-color: rgb(204, 255, 255);
 }
